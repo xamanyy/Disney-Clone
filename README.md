@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-Project Link: https://disney-clone-ffa25.web.app/home#
+Project Link: https://disney-clone-ffa25.web.app
 
 ## Available Scripts
 
